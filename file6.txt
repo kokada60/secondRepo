@@ -1,1 +1,2 @@
 lets just create file6.txt
+adding a new line to file6.txt
