@@ -1,1 +1,2 @@
 This is some voodoo stuff here..
+Editing file4.txt
