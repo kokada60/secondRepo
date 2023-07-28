@@ -1,1 +1,2 @@
 This is some voodoo stuff here..
+Noew editing file4.txt as a new featurecat file4.txt 
