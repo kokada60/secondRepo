@@ -2,3 +2,5 @@ lets just create file6.txt
 adding a new line to file6.txt
 Lets add one line one more time and see what happens. 
 After stash pop adding another line in file6.txt
+Im gonna be editing file6.txt remotely!! Let see what happens with pull --rebase
+
